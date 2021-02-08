@@ -136,6 +136,14 @@ body {
 }
 
 @media (max-width: 650px) {
+    body {
+        background-color: #ffffff;
+    }
+
+    .box {
+        border: none;
+    }
+
     .instagram-wrapper {
         width: 90%;
     }
